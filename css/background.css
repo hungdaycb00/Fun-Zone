@@ -1,0 +1,62 @@
+#wrap-bg{
+  width: 1000px;
+  height:600px;
+  margin: auto;
+  text-align: center;
+  margin-top: -80px;
+}
+
+.background-text{
+  width: 600px;
+  height: 50px;
+  position: absolute;
+  color: #fff;
+  top: 400px;
+  font-size: 24px;
+  margin-left: 200px;
+
+}
+.bg-learn{
+  font-size: 16px;
+}
+.background-text a{
+  font-weight: 600;
+  font-family: Avenir,Helvetica,Arial,sans-serif;
+  text-decoration: none;
+  color: inherit;
+}
+.bg-next{
+  position: absolute;
+  font-size: 30px;
+  left: 58%;
+  bottom: -72px;
+}
+}
+.background-text a:hover{
+  color: gray;
+}
+#video_background {
+position: absolute;
+width: 1000px;
+height: 600px;
+display: block;
+  z-index: -1000;
+}
+.countdown {
+    border-collapse: separate;
+    border-spacing: 5px;
+    display: table;
+    text-align: center;
+    margin-top: 63px;
+    margin-left: 10px;
+
+    z-index: 1000px;
+}
+.countdown a{
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+.countdown a:hover{
+  text-decoration: underline;
+}
